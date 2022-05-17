@@ -1,5 +1,5 @@
 # Tlement ✔️
-Why `Tlement`? Because everything is just for fun.
+Why `Tlement`? 'cause everything is just for fun.
 ```js
 {
   div: [
